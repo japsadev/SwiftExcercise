@@ -1,19 +1,35 @@
 # SwiftExcercise
 
-## Swift Fundamentals 
+## Swift Soru ve Çözümleri 
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ( if ) : Alan Hesabı                                     | <a href="if_AlanHesabi.md">File</a>                                |
-| ( if ) : Alan Hesabı                  | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day2(Complex%20Datas%20And%20Variable%20Types).md">File</a> |
-| Operators, Conditions and Switch-Case Usage   | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day3(Operators%20and%20Conditions).md">File</a>            |
-| Loops                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
-| Function types, Throwing and inOut parameters | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day5(Functions).md">File</a>                                |
-| Basic Closures                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day6(Closures-1).md">File</a>                               |
-| Basic Closures                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
-| Advanced Closures                             | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
-| Basic Structs and String Properties           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day8(Structs-1%20and%20Properties).md">File</a>             |
-| Advanced Structs                              | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day9(Structs-2).md">File</a>                                |
-| Basic Classes                                 | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day10(Classes).md">File</a>                                 |
-| Protocols and P.O.P                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
-| Optional Datas and Typecasting                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day12(Optionals).md">File</a>                               |
-| Protocols and P.O.P                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| ( if ) : Dört İşlem                  | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day2(Complex%20Datas%20And%20Variable%20Types).md">File</a> |
+| ( Switch ) : Dört İşlem   | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day3(Operators%20and%20Conditions).md">File</a>            |
+| ( Switch ) : Tek Çift Sayı                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
+| ( For ) : İsim Tekrarlama | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day5(Functions).md">File</a>                                |
+| ( While ) : Veri İşleme                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day6(Closures-1).md">File</a>                               |
+| ( Array ) : Ortalama Hesaplama                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
+|  ( Array ) : İçerik Değiştirme                             | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
+| ( Array ) : Tek Çift Sayılar          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day8(Structs-1%20and%20Properties).md">File</a>             |
+| ( Array ) : Rasgele Sayı Üretme                              | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day9(Structs-2).md">File</a>                                |
+| ( Array ) : Karne Uygulaması                             | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day10(Classes).md">File</a>                                 |
+| ( Array ) : İsim Arama                        | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| ( Dictionary ) : Karne Uygulaması               | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day12(Optionals).md">File</a>                               |
+| Ödev 1 - Sıcaklık Dönüşümü                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 2 - Çevre Hesabı                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 3 - Faktoriyel Hesabı                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 4 - Harf Sayısı Bulma                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 5 - İç Açı Toplamı                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 6 - Maaş Hesaplama                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 7 - İnternet Ücreti Hesaplama                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Kalıtım Örnek                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Örnek ( Polymorfism - Tip Dönüşümü - Tip Kontrolü)                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Protocol Örnek                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Array) : Ögrenci Uygulaması                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Array) : Sort Metodu                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Array) : Karne Uygulaması                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Array) : Composition                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Set) : Ögrenci Uygulaması                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Nesne Tabanlı Listeleme - (Dictionary) : Ögrenci Uygulaması                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| String - Kelimeyi Tersten Yazdırma                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
