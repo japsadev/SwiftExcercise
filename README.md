@@ -4,11 +4,11 @@
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ( if ) : Alan Hesabı                                     | <a href="https://github.com/japsadev/SwiftExcercise/blob/775e2747de497e04f74f83953ce91c6247a49970/if_AlanHesabi.md">File</a>                                |
-| ( if ) : Dört İşlem                  | <a href="if_Dortİslem.md">File</a> |
+| ( if ) : Dört İşlem                  | <a href="https://github.com/japsadev/SwiftExcercise/blob/362f984c8d1ffc12b0d5c29a6d40f7452d522c04/if_DortIslem.md">File</a> |
 | ( Switch ) : Dört İşlem   | <a href="https://github.com/japsadev/SwiftExcercise/blob/8e35be1d8b86f52da7cdb4ee4d3c40d259e8263f/switch_DortIslem.md">File</a>            |
-| ( Switch ) : Tek Çift Sayı                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
-| ( For ) : İsim Tekrarlama | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day5(Functions).md">File</a>                                |
-| ( While ) : Veri İşleme                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day6(Closures-1).md">File</a>                               |
+| ( Switch ) : Tek Çift Sayı                                         | <a href="">File</a>                                    |
+| ( For ) : İsim Tekrarlama | <a href="">File</a>                                |
+| ( While ) : Veri İşleme                                | <a href="">File</a>                               |
 | ( Array ) : Ortalama Hesaplama                                | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
 |  ( Array ) : İçerik Değiştirme                             | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day7(Closures-2).md">File</a>                               |
 | ( Array ) : Tek Çift Sayılar          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day8(Structs-1%20and%20Properties).md">File</a>             |
