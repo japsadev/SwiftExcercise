@@ -3,7 +3,7 @@
 ## Swift Fundamentals 
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ( if ) : Alan Hesabı                                     | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day1(Variables).md">File</a>                                |
+| ( if ) : Alan Hesabı                                     | <a href="if_AlanHesabi.md">File</a>                                |
 | ( if ) : Alan Hesabı                  | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day2(Complex%20Datas%20And%20Variable%20Types).md">File</a> |
 | Operators, Conditions and Switch-Case Usage   | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day3(Operators%20and%20Conditions).md">File</a>            |
 | Loops                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
