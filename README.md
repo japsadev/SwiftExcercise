@@ -3,7 +3,7 @@
 ## Swift Soru ve Çözümleri 
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ( if ) : Alan Hesabı                                     | <a href="if_AlanHesabi.md">File</a>                                |
+| ( if ) : Alan Hesabı                                     | <a href="https://github.com/japsadev/SwiftExcercise/blob/775e2747de497e04f74f83953ce91c6247a49970/if_AlanHesabi.md">File</a>                                |
 | ( if ) : Dört İşlem                  | <a href="if_Dortİslem.md">File</a> |
 | ( Switch ) : Dört İşlem   | <a href="https://github.com/japsadev/SwiftExcercise/blob/8e35be1d8b86f52da7cdb4ee4d3c40d259e8263f/switch_DortIslem.md">File</a>            |
 | ( Switch ) : Tek Çift Sayı                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
