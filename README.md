@@ -4,7 +4,7 @@
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ( if ) : Alan Hesabı                                     | <a href="if_AlanHesabi.md">File</a>                                |
-| ( if ) : Dört İşlem                  | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day2(Complex%20Datas%20And%20Variable%20Types).md">File</a> |
+| ( if ) : Dört İşlem                  | <a href="if_Dortİslem.md">File</a> |
 | ( Switch ) : Dört İşlem   | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day3(Operators%20and%20Conditions).md">File</a>            |
 | ( Switch ) : Tek Çift Sayı                                         | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day4(Loops).md">File</a>                                    |
 | ( For ) : İsim Tekrarlama | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day5(Functions).md">File</a>                                |
