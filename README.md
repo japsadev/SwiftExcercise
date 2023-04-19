@@ -13,7 +13,7 @@
 |  ( Array ) : İçerik Değiştirme                             | <a href="https://github.com/japsadev/SwiftExcercise/blob/99459792ebe78e011c64a0d471b75fcd0a13c21c/array_IcerikDegistirme.md">File</a>                               |
 | ( Array ) : Tek Çift Sayılar          | <a href="https://github.com/japsadev/SwiftExcercise/blob/8495945797f38d37c74a4fc2e27524c020e5c531/array_TekCift.md">File</a>             |
 | ( Array ) : Rasgele Sayı Üretme                              | <a href="https://github.com/japsadev/SwiftExcercise/blob/61534d6d86c4924db2a94758d1bc5bbea3d637fc/array_RastgeleSayi.md">File</a>                                |
-| ( Array ) : Karne Uygulaması                             | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day10(Classes).md">File</a>                                 |
+| ( Array ) : Karne Uygulaması                             | <a href="https://github.com/japsadev/SwiftExcercise/blob/aaf198fd787fd092a20b5108088ffa4e217206f9/array_KarneUygulamasi.md">File</a>                                 |
 | ( Array ) : İsim Arama                        | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
 | ( Dictionary ) : Karne Uygulaması               | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day12(Optionals).md">File</a>                               |
 | Ödev 1 - Sıcaklık Dönüşümü                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
