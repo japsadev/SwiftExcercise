@@ -1,7 +1,7 @@
 # SwiftExcercise
 
-## Swift Soru ve Çözümleri 
-| Topics                                        | File                                                                                                                                                        |
+## Swift Soru ve Cevaplar 
+| Sorular                                        | Cevaplar                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ( if ) : Alan Hesabı                                     | <a href="https://github.com/japsadev/SwiftExcercise/blob/775e2747de497e04f74f83953ce91c6247a49970/if_AlanHesabi.md">File</a>                                |
 | ( if ) : Dört İşlem                  | <a href="https://github.com/japsadev/SwiftExcercise/blob/362f984c8d1ffc12b0d5c29a6d40f7452d522c04/if_DortIslem.md">File</a> |
