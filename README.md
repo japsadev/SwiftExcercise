@@ -20,7 +20,7 @@
 | Ödev 4 - Harf Sayısı Bulma                          | <a href="https://github.com/japsadev/SwiftExcercise/blob/6dac95def1ca50df0fc96fe2e9492f1f8fb02bef/KelimeHarf.md">File</a>                               |
 | Ödev 5 - İç Açı Toplamı                          | <a href="https://github.com/japsadev/SwiftExcercise/blob/47668b8db8e8537fdb541e9dfecf61b4358ab1d2/IcAcilarinToplami.md">File</a>                               |
 | Ödev 6 - Maaş Hesaplama                          | <a href="https://github.com/japsadev/SwiftExcercise/blob/17d73cf32308731ca4f82aaa98c68e21a2bc3e17/Maa%C5%9FIsteme.md">File</a>                               |
-| Ödev 7 - İnternet Ücreti Hesaplama                           | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 7 - İnternet Ücreti Hesaplama                           | <a href="https://github.com/japsadev/SwiftExcercise/blob/2f8962943c8cb6de348bd815235fe4095adde347/InternetUcret.md">File</a>                               |
 | Kalıtım Örnek                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
 | Örnek ( Polymorfism - Tip Dönüşümü - Tip Kontrolü)                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
 | Protocol Örnek                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
