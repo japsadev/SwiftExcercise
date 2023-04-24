@@ -16,7 +16,7 @@
 | ( Array ) : Karne Uygulaması                             | <a href="https://github.com/japsadev/SwiftExcercise/blob/aaf198fd787fd092a20b5108088ffa4e217206f9/array_KarneUygulamasi.md">File</a>                                 |
 | Ödev 1 - Sıcaklık Dönüşümü                           | <a href="https://github.com/japsadev/SwiftExcercise/blob/ef04dc44ef0d08516088f7dc982aff3a78a2a643/SicaklikDonusumu.md">File</a>                               |
 | Ödev 2 - Çevre Hesabı                           | <a href="https://github.com/japsadev/SwiftExcercise/blob/9a415267e402e71c062a5b9444ffa0cc426a1830/DikdortgenCevre.md">File</a>                               |
-| Ödev 3 - Faktoriyel Hesabı                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
+| Ödev 3 - Faktoriyel Hesabı                          | <a href="https://github.com/japsadev/SwiftExcercise/blob/38e7ad60085f8c96fa8827dc7f065de49e1c3932/FaktoriyelHesaplama.md">File</a>                               |
 | Ödev 4 - Harf Sayısı Bulma                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
 | Ödev 5 - İç Açı Toplamı                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
 | Ödev 6 - Maaş Hesaplama                          | <a href="https://github.com/devmehmetates/365-day-of-code/blob/main/Swift%20Documents%20Day1-15/day11(Protocols).md">File</a>                               |
